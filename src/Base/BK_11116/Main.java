@@ -1,4 +1,4 @@
-package BK_11116;
+package Base.BK_11116;
 
 import java.util.Scanner;
 

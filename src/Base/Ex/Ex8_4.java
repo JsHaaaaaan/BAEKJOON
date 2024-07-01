@@ -1,6 +1,5 @@
-package Ex;
+package Base.Ex;
 
-import java.lang.Exception;
 import java.lang.ArithmeticException;
 public class Ex8_4 {
     public static void main(String[] args) {

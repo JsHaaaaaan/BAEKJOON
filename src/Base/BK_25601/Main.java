@@ -1,6 +1,4 @@
-package BK_25601;
-
-import org.w3c.dom.Node;
+package Base.BK_25601;
 
 import java.util.Scanner;
 

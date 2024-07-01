@@ -1,4 +1,4 @@
-package TEST;
+package Base.TEST;
 import java.util.ArrayList;
 
 public class Team {

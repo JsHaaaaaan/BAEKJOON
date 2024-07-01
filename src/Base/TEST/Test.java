@@ -1,6 +1,4 @@
-package TEST;
-
-import java.util.Scanner;
+package Base.TEST;
 
 public class Test {
 

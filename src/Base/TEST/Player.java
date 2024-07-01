@@ -1,4 +1,4 @@
-package TEST;
+package Base.TEST;
 public class Player {
     static int num_Players = 0;
 	public String name = null;

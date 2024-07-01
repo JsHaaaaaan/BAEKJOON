@@ -1,4 +1,4 @@
-package TEST;
+package Base.TEST;
 
 import java.util.Scanner;
 import java.util.stream.IntStream;
