@@ -1,4 +1,4 @@
-package Study_07_09;
+package zStudy.Study_07_09;
 
 import java.util.Arrays;
 import java.util.Scanner;

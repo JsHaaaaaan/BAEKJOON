@@ -1,4 +1,4 @@
-package Study_07_16;
+package zStudy.Study_07_16;
 
 import java.io.BufferedReader;
 import java.io.IOException;

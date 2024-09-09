@@ -1,4 +1,4 @@
-package Study_07_02;
+package zStudy.Study_07_02;
 
 
 import java.io.IOException;

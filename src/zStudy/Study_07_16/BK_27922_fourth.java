@@ -1,7 +1,7 @@
 //N개의 강의중 K개를 택하여 들었을때 각 역량별 합 구하고
 // 두가지 역량의 합 3종류를 구해?
 
-package Study_07_16;
+package zStudy.Study_07_16;
 
 import java.io.BufferedReader;
 import java.io.IOException;
